@@ -6,7 +6,7 @@ Neste exemplo foi utilizado a página de notícias do G1 para busca.
 **Obs**:Versão simples apenas para coleta de dados de página única.
 
 
-##Instruções
+## Instruções
 1ºFaz uma requisição
 2º Converte este conteúdo em BS, dentro de uma variável
 3º Dentro da variável faz a pesquisa que deseja
@@ -15,7 +15,7 @@ Neste exemplo foi utilizado a página de notícias do G1 para busca.
 6º Transforma em DataFrame
 7º Salva em CSV
 
-##Requisitos
+## Requisitos
 Python 3
 Pip
 BeautifulSoup
