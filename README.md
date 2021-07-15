@@ -10,10 +10,10 @@ Neste exemplo foi utilizado a página de notícias do G1 para busca.
 1. Faz uma requisição
 2. Converte este conteúdo em BS, dentro de uma variável
 3. Dentro da variável faz a pesquisa que deseja
-4. FOR para buscar todas as noticias
+4. FOR para buscar todas as notícias
 5. Converte em formato texto com .text
 6. Transforma em DataFrame
-7. Salva em CSV
+7. Salva em CSV ou formato que desejar
 
 ## Requisitos
 Python 3
