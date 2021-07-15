@@ -7,13 +7,13 @@ Neste exemplo foi utilizado a página de notícias do G1 para busca.
 
 
 ## Instruções
-1ºFaz uma requisição
-2º Converte este conteúdo em BS, dentro de uma variável
-3º Dentro da variável faz a pesquisa que deseja
-4º FOR para buscar todas as noticias
-5º Converte em formato texto com .text
-6º Transforma em DataFrame
-7º Salva em CSV
+1. Faz uma requisição
+2. Converte este conteúdo em BS, dentro de uma variável
+3. Dentro da variável faz a pesquisa que deseja
+4. FOR para buscar todas as noticias
+5. Converte em formato texto com .text
+6. Transforma em DataFrame
+7. Salva em CSV
 
 ## Requisitos
 Python 3
